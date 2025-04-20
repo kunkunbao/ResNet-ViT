@@ -1,6 +1,6 @@
 # ResNet-ViT
 基于Adapter构建ResNet-ViT的模型融合架构，提升ViT在小数据集上的性能，小参数量学习：仅训练Adapter和分类头
-支持vit_base_patch16_224_in21k，vit_base_patch32_224，vit_base_patch32_224_in21k，vit_large_patch16_224，vit_large_patch16_224_in21k，vit_large_patch32_224_in21k，vit_large_patch32_224_in21k的ViT预训练模型
+支持vit_base_patch16_224_in21k，vit_base_patch32_224，vit_base_patch32_224_in21k，vit_large_patch16_224，vit_large_patch16_224_in21k，vit_large_patch32_224_in21k，vit_large_patch32_224_in21k的ViT预训练模型，代码位于master分支
 # 数据集结构
 dataset  
   --种类1  
